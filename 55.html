@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>IVONT</title>
+<style>
+    body {
+        background: #000;
+        color: #ff2b2b;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        margin-top: 20%;
+    }
+    .title {
+        font-size: 50px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .sub {
+        font-size: 32px;
+        opacity: 0.8;
+    }
+</style>
+</head>
+<body>
+
+<div class="title">بعيوني Sav OLD Sol</div>
+<div class="sub">ماش… مافي حماية</div>
+
+</body>
+</html>
